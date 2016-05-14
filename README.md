@@ -1,5 +1,5 @@
 # Data Structures
-Course assignments from CSCI 2125 Data Structures
+Course assignments from CSCI 2125 Data Structures taken Fall 2015 taught by Farjana Eishita.
 
 |
 
